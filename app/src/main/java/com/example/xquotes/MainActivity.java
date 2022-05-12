@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity implements CopyListener{
         ColorDrawable colorDrawable
                 = new ColorDrawable(Color.parseColor("#3700B3"));
         actionBar.setBackgroundDrawable(colorDrawable);
+        actionBar.setTitle("Quotes");
 
         recyclerView = findViewById(R.id.rec_view);
 

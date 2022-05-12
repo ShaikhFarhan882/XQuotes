@@ -34,7 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="author"
-            android:textColor="@color/black"
+            android:textColor="@color/author_bg"
             android:textSize="20sp"
             android:textStyle="italic"
             android:textAlignment="center"
@@ -46,6 +46,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Copy Quote"
+            android:backgroundTint="@color/button_bg"
             android:padding="8dp"
             />
 

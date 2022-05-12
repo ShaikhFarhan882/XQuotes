@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/FARHAN/AndroidStudioProjects/XQuotes/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/FARHAN/AndroidStudioProjects/XQuotes/app/src/main/res/layout/settings_activity.xml" value="0.1796875" />
         <entry key="..\:/Users/FARHAN/AndroidStudioProjects/XQuotes/app/src/main/res/layout/singlerow.xml" value="0.1796875" />
+        <entry key="..\:/Users/FARHAN/AndroidStudioProjects/XQuotes/app/src/main/res/xml/root_preferences.xml" value="0.22" />
       </map>
     </option>
   </component>
